@@ -9,7 +9,7 @@ This is the notes of MySQL coursse taught by [Ms. Priya Bhatia](https://www.tech
 - [DataTypes in MySQL](#datatypes-in-mysql)
 - [Constraints](#constraints)
 
-## Types of Databses
+## Types of Databases
 
 1. Relational DataBases
     - Data is stored in the form of rows and columns
