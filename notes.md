@@ -2,11 +2,11 @@
 
 This is the notes of MySQL coursse taught by [Ms. Priya Bhatia](https://www.techforallwithpriya.com/) on [ChaiCode.com](https://chaicode.com/) and initiative by [Mr. Hitesh Chaudhary](https://hitesh.ai/).
 
-## Contents of the file
+## Table of Contents
 
-- [Types of DataBases](#Types-of-DataBases)
-- [CRUD Operations](#CRUD-Operations)
-- [DataTypes in MySQL](#DataTypes)
+- [Types of DataBases](#types-of-databases)
+- [CRUD Operations](#crud-operations)
+- [DataTypes in MySQL](#datatypes-in-mysql)
 - [Constraints](#constraints)
 
 ## Types of Databses
@@ -22,7 +22,7 @@ This is the notes of MySQL coursse taught by [Ms. Priya Bhatia](https://www.tech
     - Graph
     - Eg: MongoDB, Cassandra, Apache HBase
 
-## <a name="CRUD-Operations"></a> CRUD Operations
+## CRUD Operations
 
 1. Create
     - create database $name
@@ -38,12 +38,12 @@ This is the notes of MySQL coursse taught by [Ms. Priya Bhatia](https://www.tech
     - delete from $table_name
 
 
-## <a name="DataTypes"></a> DataTypes in MySQL
+## DataTypes in MySQL
 
 - INT: Store the numeric data
 - VARCHAR($size): Store the texual string data of the specified size 
 
-## <a name="Constraints"></a> Constraints
+## Constraints
 - Primary Key: Assign a unique value to each and every record in the table, not null by default
 - Not NULL: This column can not be left empty, it is mandatory
 
